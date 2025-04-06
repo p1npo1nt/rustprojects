@@ -4,6 +4,8 @@ use std::io;
 //init mutable variable guess bound to an empty String instance
 //read input (read_line) into a reference of guess (&mut guess), ampersand means reference
 
+//comment for test commit mac
+
 fn main() {
     println!("Guess the number");
     println!("Input guess: ");
